@@ -1,0 +1,11 @@
+{
+		“objectKey”: “my-photo.jpg”,
+		“bucket”: “my-photo-bucket”,
+		“createdTimestamp”: “2018-11-05T12:40:02”,
+		“labels”: [
+		“person”,
+		“dog”,
+		“ball”,
+		“park”
+	]
+}
